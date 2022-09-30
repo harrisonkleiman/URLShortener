@@ -1,4 +1,4 @@
-# URLShortener
+# URL Shortener
 
 This simple Python/Flask application takes a URL from a user and shortens it.
 
